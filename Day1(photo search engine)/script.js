@@ -2,7 +2,7 @@ const searchForm = document.getElementById('search-form');
 const searchBox = document.getElementById('search');
 const searchResult = document.getElementById('search-result');
 const showmoreBtn = document.getElementById('showmore-btn');
-const accessKey = `BXW-O7WAXG3Kf7zi86BioAEWlHsNV7XL5pgemvsLt-Q`
+const accessKey = `Your Api Key`
 
 let keyword = ""
 let page = 1
