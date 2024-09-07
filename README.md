@@ -9,6 +9,7 @@ This repository contains a collection of 15 unique JavaScript projects, each dev
 Each project is contained in its own directory, complete with source code, documentation, and instructions for running the project. Here’s a brief overview of what you’ll find:
 
 1. **Day 1: [Image Search Engine]** - [A simple image search engine built with HTML, CSS, and JavaScript, allowing users to search and view images dynamically.]
+2. **Day 2: [Quote Generator]** - [A simple random quote generator using HTML, CSS, and JavaScript with API integration]
 
 
 ## 🛠 Technologies Used
