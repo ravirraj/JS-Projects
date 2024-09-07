@@ -1,7 +1,3 @@
-
-Certainly! Below is a `README.md` file for your simple image searching website that uses the Unsplash API:
-
-```markdown
 # Simple Image Search Website
 
 A straightforward image search website built using HTML, CSS, and JavaScript, leveraging the Unsplash API to fetch and display high-quality images based on user queries.
