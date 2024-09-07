@@ -13,3 +13,7 @@ This project is a web-based random quote generator created using HTML, CSS, and 
 - HTML
 - CSS
 - JavaScript
+
+## ScreenShot
+
+![Webpage screenshot](screenshots/)
