@@ -16,4 +16,4 @@ This project is a web-based random quote generator created using HTML, CSS, and 
 
 ## ScreenShot
 
-![Webpage screenshot](screenshots/Day2-QuoteGenerator/screenshot/127.0.0.1_5500-RandomQuoteGenerator.png)
+![Webpage screenshot](screenshot/127.0.0.1_5500-RandomQuoteGenerator.png)
