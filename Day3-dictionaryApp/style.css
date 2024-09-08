@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Poppins', sans-serif;
+    background-color: #197bbd;
+
+}
+
+.container{
+    width: 100%;
+    min-height: 70%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    background-color: #ffff;
+    width: 450px;
+    border-radius: 10px;
+    padding:30px;
+
+}
+
+.input-field{
+    margin: 0 0 50px 0;
+}
+.input-field input{
+    width: 70%;
+    border: 0;
+    outline: 0;
+    font-size: 14px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #197bbd;
+
+}
+
+.input-field button {
+    background-color: #197bbd;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    width: 25%;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.word{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 0 0 5px 0 */
+}
+
+#searched-word {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#adjective{
+    font-size: 13px;
+    /* font-weight: 30; */
+    opacity: 0.5;
+}
+
+#meaning{
+    font-size: 15px;
+    margin: 20px 0;
+}
+
+#sentence{
+    border-left: #197bbd 3px solid;
+    padding-left: 15px;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+#img{
+    display: none;
+}
