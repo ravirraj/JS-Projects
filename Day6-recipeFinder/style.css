@@ -1,0 +1,70 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    width: 100vw;
+    font-family: 'Poppins', sans-serif;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 20px 0 20px ;
+}
+
+.nav h1 {
+    font-weight: 600;
+}
+
+.nav input {
+    width: 300px;
+    height: 40px;
+    
+}
+
+#search-btn {
+    width: 100px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+.main-content h1 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.recipe-container {
+    width: 100%;
+    margin: 50px 20px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+
+}
+
+.meals-info {
+    width: 400px;
+    height: 400px;
+    margin: 10px 0;
+}
+
+
+
+.meals-info img{
+    height: 300px;
+    width: 300px;
+    align-self: center;
+    
+}
+
+.meals-info h3 {
+    text-align: center;
+}
+.meals-info button {
+    width: 80%;
+    height: 2.5rem;
+}
