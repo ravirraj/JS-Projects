@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.coloum{
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+.row {
+    display: flex;
+}
